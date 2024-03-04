@@ -1,0 +1,7 @@
+﻿Scaffold-DbContext 'Server=208.117.44.15; Database=ENP_HRPR_DB; User ID=sa; Password=Admin@EnP; MultipleActiveResultSets=true' Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Data   -force
+
+Scaffold-DbContext 'Server=208.117.44.15; Database=UserDB; User ID=sa; Password=Admin@EnP; MultipleActiveResultSets=true' Microsoft.EntityFrameworkCore.SqlServer -ContextDir UserModels -OutputDir UserModels   -force
+Scaffold-DbContext 'Server=173.248.129.77,1439; Database=FrankiesHotel; User ID=sa; Password=Pa$$w0rd@21; MultipleActiveResultSets=true' Microsoft.EntityFrameworkCore.SqlServer -ContextDir UserModels -OutputDir UserModels   -force
+Scaffold-DbContext 'Server=DESKTOP-LDSIAB0; Database=FrankiesHotel; User ID=sa; Password=Pa$$w0rd@21; MultipleActiveResultSets=true' Microsoft.EntityFrameworkCore.SqlServer -ContextDir UserModels -OutputDir UserModels   -force
+
+Scaffold-DbContext 'Server=localhost\sqlexpress; Database=ENP_HRPR_DB; Trusted_Connection=True; MultipleActiveResultSets=true' Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Data

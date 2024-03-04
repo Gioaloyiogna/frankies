@@ -1,0 +1,432 @@
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.json
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.exe
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.deps.json
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.json
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Humanizer.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\staticwebassets\AhercodeWebAPI.HR.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\scopedcss\bundle\AhercodeWebAPI.HR.styles.css
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CopyComplete
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.pdb
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.genruntimeconfig.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.Development.json
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.json
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.exe
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.deps.json
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.json
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.dev.json
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Humanizer.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Options.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Convention.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.AssemblyReference.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfoInputs.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfo.cs
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CoreCompileInputs.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cs
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\staticwebassets\AhercodeWebAPI.HR.StaticWebAssets.Manifest.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\staticwebassets\AhercodeWebAPI.HR.StaticWebAssets.xml
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\scopedcss\bundle\AhercodeWebAPI.HR.styles.css
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.RazorTargetAssemblyInfo.cache
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CopyComplete
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.pdb
+D:\PHILIP PROJECTS\AhercodeWebAPI\AhercodeWebAPI\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.Development.json
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\appsettings.json
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.exe
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.deps.json
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.json
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AhercodeWebAPI.HR.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Humanizer.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\staticwebassets\AhercodeWebAPI.HR.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\staticwebassets\AhercodeWebAPI.HR.StaticWebAssets.xml
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\scopedcss\bundle\AhercodeWebAPI.HR.styles.css
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.csproj.CopyComplete
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\ref\AhercodeWebAPI.HR.dll
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.pdb
+C:\Users\lenovo\Downloads\Web_API-master\Web_API-master\AhercodeWebAPI.HR\obj\Release\net5.0\AhercodeWebAPI.HR.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Finbuckle.MultiTenant.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Finbuckle.MultiTenant.AspNetCore.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Finbuckle.MultiTenant.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\lenovo\source\repos\AhercodeWebAPI\AhercodeWebAPI.HR\bin\Release\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll

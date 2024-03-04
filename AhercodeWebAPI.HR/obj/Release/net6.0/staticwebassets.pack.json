@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Upload\\README.txt",
+      "PackagePath": "staticwebassets\\Upload\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\0c2fbfe1-08ae-42c9-8de9-56675e306e93.png",
+      "PackagePath": "staticwebassets\\Uploads\\0c2fbfe1-08ae-42c9-8de9-56675e306e93.png"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\0d5d7b03-dc92-4630-8c5a-4d909316aa5e.dart",
+      "PackagePath": "staticwebassets\\Uploads\\0d5d7b03-dc92-4630-8c5a-4d909316aa5e.dart"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\10863704-be81-46d1-9bf9-6f745fb0f8ce.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\10863704-be81-46d1-9bf9-6f745fb0f8ce.PNG"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\6d368a33-23d2-4091-859a-b351ee42530c.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\6d368a33-23d2-4091-859a-b351ee42530c.pdf"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\8d434264-7847-4442-8236-c5dc39d52c36.png",
+      "PackagePath": "staticwebassets\\Uploads\\8d434264-7847-4442-8236-c5dc39d52c36.png"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\FAB1.png",
+      "PackagePath": "staticwebassets\\Uploads\\FAB1.png"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\THIRD-PARTY.txt",
+      "PackagePath": "staticwebassets\\Uploads\\THIRD-PARTY.txt"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\TpaClaimEntryBackUp.txt",
+      "PackagePath": "staticwebassets\\Uploads\\TpaClaimEntryBackUp.txt"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\ca9d38f6-ea3d-4a5f-a802-206fef0c344e.png",
+      "PackagePath": "staticwebassets\\Uploads\\ca9d38f6-ea3d-4a5f-a802-206fef0c344e.png"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\f3e9c222-8ebb-48de-912b-23ea085c600c.png",
+      "PackagePath": "staticwebassets\\Uploads\\f3e9c222-8ebb-48de-912b-23ea085c600c.png"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\f8ad4579-20b5-458d-873e-f19514fd9219.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\f8ad4579-20b5-458d-873e-f19514fd9219.pdf"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\flashUser.sql",
+      "PackagePath": "staticwebassets\\Uploads\\flashUser.sql"
+    },
+    {
+      "Id": "C:\\Users\\SipConsult\\Desktop\\ROVINCY PROJECTS\\SipHotel\\Web_API-master\\AhercodeWebAPI.HR\\wwwroot\\Uploads\\postRestaurantOrdersBackUp.txt",
+      "PackagePath": "staticwebassets\\Uploads\\postRestaurantOrdersBackUp.txt"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AhercodeWebAPI.HR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AhercodeWebAPI.HR.props",
+      "PackagePath": "build\\AhercodeWebAPI.HR.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AhercodeWebAPI.HR.props",
+      "PackagePath": "buildMultiTargeting\\AhercodeWebAPI.HR.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AhercodeWebAPI.HR.props",
+      "PackagePath": "buildTransitive\\AhercodeWebAPI.HR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
